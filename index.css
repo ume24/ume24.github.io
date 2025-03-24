@@ -1,0 +1,42 @@
+#introduction{
+    height: 100px;
+    width: 300px;
+}
+#ssquare{
+    border: 6px solid rgb(222, 145, 196);
+    background-color: rgb(249, 240, 242);
+    justify-content: center;
+}
+
+#square2{
+    padding: 25px;
+}
+body{
+    display: flex;
+    justify-content: center;
+
+}
+fieldset{
+    width: 450px;
+}
+a{
+    color: rgb(224, 126, 205);
+}
+#titles{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+#signUp{
+    background-color: rgb(225, 159, 234);
+    color: white;
+    border: 2px solid black;
+    padding: 10px;
+}
+#rewrite{
+    background-color: rgb(237, 194, 194);
+    color: white;
+    border: 2px solid black;
+    padding: 10px;
+}
