@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ume24.github.io/static/css/main.8beda7be.css",
-    "main.js": "/ume24.github.io/static/js/main.ee2e2d0d.js",
-    "static/js/453.f029534c.chunk.js": "/ume24.github.io/static/js/453.f029534c.chunk.js",
-    "index.html": "/ume24.github.io/index.html",
-    "main.8beda7be.css.map": "/ume24.github.io/static/css/main.8beda7be.css.map",
-    "main.ee2e2d0d.js.map": "/ume24.github.io/static/js/main.ee2e2d0d.js.map",
-    "453.f029534c.chunk.js.map": "/ume24.github.io/static/js/453.f029534c.chunk.js.map"
+    "main.css": "/static/css/main.8beda7be.css",
+    "main.js": "/static/js/main.4ab577a7.js",
+    "static/js/453.f029534c.chunk.js": "/static/js/453.f029534c.chunk.js",
+    "index.html": "/index.html",
+    "main.8beda7be.css.map": "/static/css/main.8beda7be.css.map",
+    "main.4ab577a7.js.map": "/static/js/main.4ab577a7.js.map",
+    "453.f029534c.chunk.js.map": "/static/js/453.f029534c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8beda7be.css",
-    "static/js/main.ee2e2d0d.js"
+    "static/js/main.4ab577a7.js"
   ]
 }
