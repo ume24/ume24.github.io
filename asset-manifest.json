@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ume24.github.io/static/css/main.8beda7be.css",
+    "main.js": "/ume24.github.io/static/js/main.ee2e2d0d.js",
+    "static/js/453.f029534c.chunk.js": "/ume24.github.io/static/js/453.f029534c.chunk.js",
+    "index.html": "/ume24.github.io/index.html",
+    "main.8beda7be.css.map": "/ume24.github.io/static/css/main.8beda7be.css.map",
+    "main.ee2e2d0d.js.map": "/ume24.github.io/static/js/main.ee2e2d0d.js.map",
+    "453.f029534c.chunk.js.map": "/ume24.github.io/static/js/453.f029534c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8beda7be.css",
+    "static/js/main.ee2e2d0d.js"
+  ]
+}
